@@ -9,7 +9,7 @@ function App() {
             <div className="nav-span col-lg-0 col-md-0 col-2"></div>
             <div className="logo col-lg-2 col-md-12 col-8">
                 <picture className="logo-img">
-                    <source className="img-lg" media="(min-width: 992px)" srcset="./img/img_nav_logo@992.png" />
+                    <source className="img-lg" media="(min-width: 992px)" srcSet="./img/img_nav_logo@992.png" />
                     <img src="./img/img_nav_logo@375.png" alt="" />
                 </picture>
             </div>
@@ -44,7 +44,7 @@ function App() {
         </div>
         <div className="main-img width1280">
             <picture className="img-box container">
-                <source className="img-lg" media="(min-width: 769px)" srcset="./img/img_main_1280@1x.png 1x, ./img/img_main_1280@2x.png 2x" />
+                <source className="img-lg" media="(min-width: 769px)" srcSet="./img/img_main_1280@1x.png 1x, ./img/img_main_1280@2x.png 2x" />
                 <img src="./img/img_main_768.png" alt="main-img" />
             </picture>
         </div>
@@ -105,7 +105,7 @@ function App() {
                             <li className="blog-item">
                                 <a href="https://sakurazaka46.com/s/s46/diary/detail/36523?ima=2049&cd=blog" className="blog-link no-underline">
                                     <div className="blog-img-box">
-                                        <img className="blog-img" srcset="./img/img_blog_01_1280@1x.png 1x, ./img/img_blog_01_1280@2x.png 2x" 
+                                        <img className="blog-img" srcSet="./img/img_blog_01_1280@1x.png 1x, ./img/img_blog_01_1280@2x.png 2x" 
                                         src="./img/img_blog_01_1280@1x.png" alt="blog-img" />
                                     </div>
                                     <div className="blog-info">
@@ -118,7 +118,7 @@ function App() {
                             <li className="blog-item">
                                 <a href="https://sakurazaka46.com/s/s46/diary/detail/36518?ima=2123&cd=blog" className="blog-link no-underline">
                                     <div className="blog-img-box">
-                                        <img className="blog-img" srcset="./img/img_blog_02_1280@1x.png 1x, ./img/img_blog_02_1280@2x.png 2x" 
+                                        <img className="blog-img" srcSet="./img/img_blog_02_1280@1x.png 1x, ./img/img_blog_02_1280@2x.png 2x" 
                                         src="./img/img_blog_02_1280@1x.png" alt="blog-img" />
                                     </div>
                                     <div className="blog-info">
@@ -131,7 +131,7 @@ function App() {
                             <li className="blog-item">                          
                                 <a href="https://sakurazaka46.com/s/s46/diary/detail/36513?ima=2148&cd=blog" className="blog-link no-underline">
                                     <div className="blog-img-box">
-                                        <img className="blog-img" srcset="./img/img_blog_03_1280@1x.png 1x, ./img/img_blog_03_1280@2x.png 2x" 
+                                        <img className="blog-img" srcSet="./img/img_blog_03_1280@1x.png 1x, ./img/img_blog_03_1280@2x.png 2x" 
                                         src="./img/img_blog_03_1280@1x.png" alt="blog-img" />
                                     </div>
                                     <div className="blog-info">
@@ -144,7 +144,7 @@ function App() {
                             <li className="blog-item">
                                 <a href="https://sakurazaka46.com/s/s46/diary/detail/36483?ima=2221&cd=blog" className="blog-link no-underline">
                                     <div className="blog-img-box">
-                                        <img className="blog-img" srcset="./img/img_blog_04_1280@1x.png 1x, ./img/img_blog_04_1280@2x.png 2x" 
+                                        <img className="blog-img" srcSet="./img/img_blog_04_1280@1x.png 1x, ./img/img_blog_04_1280@2x.png 2x" 
                                         src="./img/img_blog_04_1280@1x.png" alt="blog-img" />
                                     </div>
                                     <div className="blog-info">
@@ -170,7 +170,7 @@ function App() {
                         <a href="https://sakurazaka46.com/s/s46/discography/SRCL-11620?ima=1856" className="release-link">
                             <div className="release-info">
                                 <div className="release-img-box">
-                                    <img className="release-img" srcset="./img/img_release_1280@1x.png 1x, ./img/img_release_1280@2x.png 2x" 
+                                    <img className="release-img" srcSet="./img/img_release_1280@1x.png 1x, ./img/img_release_1280@2x.png 2x" 
                                     src="./img/img_release_1280@1x.png" alt="new-release-img" />
                                 </div>
                                 <p className="release-text">Nobody's fault【初回仕様限定盤 TYPE-A】</p>
@@ -184,7 +184,7 @@ function App() {
                         <a href="###" className="video-link">
                             <div className="video-info">
                                 <div className="video-img-box">
-                                    <img srcset="./img/img_video_1280@1x.png 1x, ./img/img_video_1280@2x.png 2x" 
+                                    <img srcSet="./img/img_video_1280@1x.png 1x, ./img/img_video_1280@2x.png 2x" 
                                     src="./img/img_video_1280@1x.png" className="video-img" alt="video-img" />
                                 </div>
                                 <p className="video-text">櫻坂46 『Nobody's fault』</p>
@@ -198,13 +198,13 @@ function App() {
                         <div className="banner-info">
                             <div className="banner-img-box">
                                 <a href="https://sakurazaka46.com/s/s46app/page_common/app_guide" className="banner-link">
-                                    <img srcset="./img/img_banner_01_1280@1x.png 1x, ./img/img_banner_01_1280@2x.png 2x"
+                                    <img srcSet="./img/img_banner_01_1280@1x.png 1x, ./img/img_banner_01_1280@2x.png 2x"
                                     src="./img/img_banner_01_1280@1x.png" className="banner-img" alt="banner-img" />
                                 </a>
                             </div>
                             <div className="banner-img-box">
                                 <a href="https://keyahina-unisonair.com/" className="banner-link">
-                                    <img srcset="./img/img_banner_02_1280@1x.png 1x, ./img/img_banner_02_1280@2x.png 2x"
+                                    <img srcSet="./img/img_banner_02_1280@1x.png 1x, ./img/img_banner_02_1280@2x.png 2x"
                                     src="./img/img_banner_02_1280@1x.png" className="banner-img" alt="" />
                                 </a>
                             </div>
